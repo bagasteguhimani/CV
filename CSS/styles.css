@@ -51,13 +51,13 @@ a:hover{
 }
 .bottom-cloud{
 	position: absolute;
-	left: 400px;
-	bottom: 600px;
+	top: 350px;
+	right: 50px;
 }
 .top-cloud{
 	position: absolute;
-	right: 400px;
-	top: 300px;
+	left: 50px;
+	top: 120px;
 }
 .Propic{
 	width: 25%;
