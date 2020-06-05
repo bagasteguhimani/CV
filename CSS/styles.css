@@ -1,0 +1,119 @@
+body{
+	margin:0;
+	text-align: center;
+	font-family: 'Martel', serif;
+	font-size: 20px;
+	color: #40514E;
+}
+
+h1{
+	margin:0;
+	font-size: 75px;
+	padding: 20px;
+	font-family: 'Indie Flower', cursive;
+	color: #66BFBF;
+	line-height: 2
+
+}
+h2{
+	color: #66BFBF;
+	padding-bottom: 15px;
+	font-family: 'Martel', serif;
+}
+h3{
+	color: #11999E;
+}
+a{
+	font-family: 'Martel', serif;
+	color: #11999E;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+a:hover{
+	color: #EAF6F6;
+}
+.Top{
+	background-color: #cbf1f5;
+	padding: 20px;
+	position: relative;
+	padding-top: 100px; 
+
+}
+
+.Middle{
+	padding: 100px 0;
+	background-color: #e3fdfd;
+}
+
+.Footer{
+	background-color: #66BFBF;
+	padding: 50px 0 20px;
+}
+.bottom-cloud{
+	position: absolute;
+	left: 400px;
+	bottom: 600px;
+}
+.top-cloud{
+	position: absolute;
+	right: 400px;
+	top: 300px;
+}
+.Propic{
+	width: 25%;
+	height: 25%;
+}
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 10%;
+}
+.skill-row{
+	width: 50%;
+	margin:100px auto 100px auto;
+	text-align: left;
+	line-height: 2;	
+}
+.Web, .Game{
+	width: 25%;
+	height: 25%;
+	float: left;
+	margin-right: 50px;
+}
+.Game{
+	width: 25%;
+	height: 25%;
+	float: right;
+	margin-left: 50px;
+}
+
+}.desc{
+	width: 30%;
+	margin: auto;
+}
+p{
+	line-height: 2;
+}
+.contmas{
+	width: 40%;
+	margin: 40px auto 60px;
+}
+
+.button {
+  background-color: #364f6b;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}.button:hover {
+	opacity: 1
+}
